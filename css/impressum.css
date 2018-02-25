@@ -1,0 +1,22 @@
+body {
+  background-color:#0a192c;
+}
+
+h1 {
+  color:#04a082;
+}
+
+h2 {
+  padding-left:8px;
+  color: #04a082;
+}
+
+h3 {
+  padding-left:16px;
+  color:#7cdba2;
+}
+
+p {
+  padding-left:32px;
+  color: #93cab9;
+}
