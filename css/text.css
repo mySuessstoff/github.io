@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Vidaloka;
+  src: url('../fonts/Vidaloka-Regular.ttf');
+}
+
+@font-face {
+  font-family: Comfortaa;
+  font-weight:bold;
+  src: url('../fonts/Comfortaa-Bold.ttf');
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url('../fonts/Quicksand_Book.otf');
+}
